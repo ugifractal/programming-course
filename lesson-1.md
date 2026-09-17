@@ -7,7 +7,7 @@
 
 ## 2. Persiapan Environment & Tools
 * **Compiler / Interpreter:** Fungsi utama *engine* pengolah kode di dalam sistem operasi.
-* **Tools Kerja:** 
+* **Tools Kerja:**
   * **Interactive Console:** Tempat eksperimen dan eksekusi kode langsung per baris.
   * **Text Editor / IDE & File Script:** Menulis, menyimpan, dan mengelola struktur kode sumber (*source code*).
 * **Alur Eksekusi:** Menjalankan file kode pertama melalui terminal / command prompt.
@@ -39,14 +39,6 @@
   * Percabangan ganda / bertingkat (`if - else` / `else if`).
   * Percabangan multi-kondisi (`case - when` / `switch - case`).
 
-## 7. Perulangan / Looping
-* **Tujuan Looping:** Otomatisasi proses yang berulang tanpa perlu menulis ulang kode.
-* **Loop Berbasis Kondisi:** Perulangan yang berjalan selama suatu kondisi bernilai benar (`while`).
-* **Loop Berbasis Hitungan / Iterasi:** Perulangan berdasarkan urutan angka atau koleksi data (`for` / `each`).
-* **Kontrol Perulangan:** Mekanisme menghentikan (*break*) atau melompati iterasi saat ini (*continue* / `next`).
-
----
-
-## 8. Tanya Jawab (Q&A) & Diskusi
+## Tanya Jawab (Q&A) & Diskusi
 * **Sesi Q&A:** Membahas bagian yang belum dipahami atau kendala saat *live coding*.
 * **Diskusi Bebas:** Pembahasan santai seputar materi yang telah dipelajari dan evaluasi pemahaman siswa.
